@@ -99,3 +99,9 @@ Diners Club - North America
 
 Maestro
 6763170186299611 - OK
+
+Тестирование производилось в следующем окружении:
+* Windows 10 Pro x64
+* Java "11.0.10" 2021-01-19
+* IntelliJ IDEA Community Edition "2020.3.3"
+
